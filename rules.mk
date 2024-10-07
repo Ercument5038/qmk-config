@@ -1,3 +1,2 @@
-SPLIT_KEYBOARD = yes
-SERIAL_DRIVER = bitbang
+SERIAL_DRIVER = vendor
 
