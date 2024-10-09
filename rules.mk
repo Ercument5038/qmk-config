@@ -1,2 +1,3 @@
 SERIAL_DRIVER = vendor
+WATCHDOG_ENABLE = yes
 
